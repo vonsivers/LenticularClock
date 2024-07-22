@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30mm"
+   height="52.5mm"
+   viewBox="0 0 30 52.5"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="7segment_number.svg"
+   inkscape:export-filename="7segment_number9.tiff"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-304"
+     inkscape:cy="157"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;fill:#ff0000;fill-opacity:1;stroke-width:0.100794"
+       x="0"
+       y="52.5"
+       id="text236"
+       inkscape:label="0"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke-width:0.100794"
+         x="0"
+         y="52.5">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;fill:#ff9900;fill-opacity:1;stroke-width:0.100794"
+       x="0"
+       y="52.5"
+       id="text348"
+       inkscape:label="1"><tspan
+         sodipodi:role="line"
+         id="tspan346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff9900;fill-opacity:1;stroke-width:0.100794"
+         x="0"
+         y="52.5">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;fill:#ccff00;fill-opacity:1;stroke-width:0.100794"
+       x="0"
+       y="52.5"
+       id="text402"
+       inkscape:label="2"><tspan
+         sodipodi:role="line"
+         id="tspan400"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ccff00;fill-opacity:1;stroke-width:0.100794"
+         x="0"
+         y="52.5">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;fill:#33ff00;fill-opacity:1;stroke-width:0.100794"
+       x="0"
+       y="52.5"
+       id="text248"
+       inkscape:label="3"><tspan
+         sodipodi:role="line"
+         id="tspan246"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#33ff00;fill-opacity:1;stroke-width:0.100794"
+         x="0"
+         y="52.5">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;fill:#00ff66;fill-opacity:1;stroke-width:0.100794"
+       x="0"
+       y="52.5"
+       id="text408"
+       inkscape:label="4"><tspan
+         sodipodi:role="line"
+         id="tspan406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ff66;fill-opacity:1;stroke-width:0.100794"
+         x="0"
+         y="52.5">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;fill:#00ffff;fill-opacity:1;stroke-width:0.100794"
+       x="0"
+       y="52.5"
+       id="text412"
+       inkscape:label="5"><tspan
+         sodipodi:role="line"
+         id="tspan410"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;fill-opacity:1;stroke-width:0.100794"
+         x="0"
+         y="52.5">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;fill:#0066ff;fill-opacity:1;stroke-width:0.100794"
+       x="0"
+       y="52.5"
+       id="text416"
+       inkscape:label="6"><tspan
+         sodipodi:role="line"
+         id="tspan414"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0066ff;fill-opacity:1;stroke-width:0.100794"
+         x="0"
+         y="52.5">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;fill:#3300ff;fill-opacity:1;stroke-width:0.100794"
+       x="0"
+       y="52.5"
+       id="text420"
+       inkscape:label="7"><tspan
+         sodipodi:role="line"
+         id="tspan418"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3300ff;fill-opacity:1;stroke-width:0.100794"
+         x="0"
+         y="52.5">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;fill:#cc00ff;fill-opacity:1;stroke-width:0.100794"
+       x="0"
+       y="52.5"
+       id="text424"
+       inkscape:label="8"><tspan
+         sodipodi:role="line"
+         id="tspan422"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cc00ff;fill-opacity:1;stroke-width:0.100794"
+         x="0"
+         y="52.5">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00c3;fill-opacity:1;stroke-width:0.100794"
+       x="0"
+       y="52.5"
+       id="text428"
+       inkscape:label="9"><tspan
+         sodipodi:role="line"
+         id="tspan426"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'7 Segments';-inkscape-font-specification:'7 Segments, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff00c3;fill-opacity:1;stroke-width:0.100794"
+         x="0"
+         y="0">9</tspan></text>
+  </g>
+</svg>
